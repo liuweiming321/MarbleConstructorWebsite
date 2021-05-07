@@ -1,0 +1,48 @@
+{
+  "header": {
+    "logo": "Chen-Xin Marble",
+    "home": "Home",
+    "info": "Info",
+    "achievement": "Achievement",
+    "contact": "Contact"
+
+  },
+
+  "home": {
+    "holder": "This is the home-page",
+    "title": {
+      "main": "Chen-Xin Marble Constructor",
+      "sub": "Construct your dream room with Marbles"
+    }
+  },
+
+  "info": {
+    "holder": "This is info-page",
+    "title": "About Chen-Xin Marble Contractor",
+    "paragraph": {
+      "1": "Chen-Xin Marble Contractor is an organization that mainly construct the marble and paste it to your home.",
+      "2": "Mr.Chen has thirty years of experience with construction on marble pasting.",
+      "3": "Below are some of our projects, we believe one of the style will fulfill your home!"
+    }
+  },
+
+  "achievement": {
+    "title": "Past Projects"
+  },
+
+  "contact": {
+    "title": "Contact Info",
+    "tel": "Tel",
+    "fax": "Fax",
+    "email": "Email",
+    "address": "Address"
+  },
+
+  "other": {
+    "unavailable": "Currently Unavailable"
+
+  },
+
+  "langTo":"中文"
+
+}

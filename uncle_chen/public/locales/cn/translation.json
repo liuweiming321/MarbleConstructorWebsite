@@ -1,0 +1,48 @@
+{
+  "header": {
+    "logo": "陳信大理石",
+    "home": "主頁",
+    "info": "關於",
+    "achievement": "成就",
+    "contact": "聯絡"
+
+  },
+
+  "home": {
+    "holder": "這是home中文介面",
+    "title": {
+      "main": "陳信大理石室內裝修",
+      "sub": "用大理石來打造完美的環境"
+    }
+  },
+
+  "info": {
+    "holder": "這是info中文介面",
+    "title": "關於陳信大理石",
+    "paragraph": {
+      "1": "陳信大理石室內裝修專們為顧客貼上滿意的大理石。",
+      "2": "陳師父傭有三十年經驗，專門為各家各戶裝貼大理石。",
+      "3": "以下為陳師父的作業成果，相信種有一款適合你!"
+    }
+  },
+
+  "achievement":{
+    "title": "過去成果"
+  },
+
+  "contact": {
+    "title": "聯絡資訊",
+    "tel": "電話",
+    "fax": "傳真",
+    "email": "郵件信箱",
+    "address": "地址"
+  },
+
+  "other": {
+    "unavailable": "暫不支持"
+
+  },
+
+  "langTo":"English"
+
+}
